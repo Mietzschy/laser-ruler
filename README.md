@@ -1,6 +1,6 @@
 # laser-ruler
 
-Tool to measure dimensions and gauge material thickness
+Hand tool to measure dimensions and gauge material thickness
 
 SVG file is meant for laser cutting/engraving.
 
